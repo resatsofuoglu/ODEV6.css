@@ -1,0 +1,59 @@
+
+
+.img {
+    text-align: center;
+}
+.p1 {
+    text-align: center;
+    margin: 0%;
+}
+.box1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+   
+    width: 100%;
+    background-color: #DCDCDC;
+}
+
+.searchinput {
+    padding: 5px 80px;
+    
+}
+.card1 {
+    text-align: center;
+    width: 40%;
+        float: left;
+    background-color: #4682B4;
+
+}
+.card2 {
+    text-align: center;
+    float: left;
+    width: 20%;
+    background-color: #4682B4;
+    
+}
+.card3 {
+    float: left;
+    width: 40%;
+    background-color: #4682B4;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.searchinput2 {
+    padding: 5px 50px;
+    margin: 0px;
+}
+.cards {
+    height: 200px;
+    background-color:#4682B4;
+}
+.but {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
